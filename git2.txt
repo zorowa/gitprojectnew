@@ -3,3 +3,4 @@ The following are the working areas in the local Git Repo
 2. Staging area
 3. Commit area
 
+this is the new list
