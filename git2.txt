@@ -1,0 +1,5 @@
+The following are the working areas in the local Git Repo
+1. Working area
+2. Staging area
+3. Commit area
+
